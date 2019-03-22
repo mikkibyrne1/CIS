@@ -1,13 +1,10 @@
-/**
- * Write a description of class Course here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
 public class CollegeCourse
 {
     private String CourseID;
-    //private int CreditHours;
+    //This is the set and get code. 
+    //It makes it so when you are in my other code input it can set the grades ect.. 
+    //This code also is used in input to get code, for example getGrades. 
     private char Grade;
     private int Credits;
 
